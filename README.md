@@ -3,6 +3,8 @@ Original Python script done by [dylan-lawrence](https://github.com/dylan-lawrenc
 # Perler GUI
 This is a python app that takes in a pixel art image, and converts the pixel colors to perler colors. The GUI displays the converted image as well as a key of the colors and number of perler beads needed.
 
+![alt text](https://github.com/amoreno1413/PerlerGUI/blob/main/example.png "GUI example")
+
 # How To Use
   1. Make a pixel art image [here](https://www.pixilart.com/draw)
   2. Open the GUI and select the proper pixel size
